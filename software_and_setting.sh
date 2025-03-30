@@ -20,6 +20,7 @@ brew install bash
 brew install git
 brew install handbrake
 brew install mas
+brew install tesseract
 brew install --cask 1password
 brew install --cask signal
 brew install --cask discord
