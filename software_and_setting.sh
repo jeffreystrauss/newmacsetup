@@ -38,6 +38,10 @@ brew install --cask slack
 brew install --cask vlc
 brew install --cask visual-studio-code
 brew install --cask zotero
+# Set Homebrew auto-updates to every 24 hours and on system boot
+brew install pinentry-mac
+brew tap domt4/autoupdate
+brew autoupdate start 86400 --upgrade --cleanup --immediate --sudo
 
 # The following will prompt for App Store sign-in
 #Install BetterSnapTool
