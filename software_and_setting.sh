@@ -53,6 +53,7 @@ brew "ripgrep"
 brew "supabase/tap/supabase"
 brew "tesseract"
 brew "tor"
+brew "ollama"
 
 # GUI apps
 cask "1password"
